@@ -6,6 +6,7 @@ function principal(){
 	});
 }
 principal();
+
 //ejercicios con on en html.
 function verificacionBody(){
 	alert("YA SE CARGÓ");
